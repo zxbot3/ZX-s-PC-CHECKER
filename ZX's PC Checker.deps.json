@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ZX's PC Checker/1.0.0": {
+        "runtime": {
+          "ZX's PC Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ZX's PC Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
